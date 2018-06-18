@@ -1,0 +1,23 @@
+== Install
+npm install -g create-react-app
+
+== Create application
+create-react-app <app-name>
+
+== Install redux
+npm install --save redux react-redux
+
+== Instal enzyme (better expectations)
+npm install --save enzyme enzyme-adapter-react-<react main version number in package.json>
+criar arquivo setupTest.js no src com o conteúdo
+
+------------------
+import Enzyme from 'enzyme';
+import Adapter from 'enzyme-adapter-react-16';
+
+Enzyme.configure({ adapter: new Adapter() });
+------------------
+
+== Run tests: npm run test
+
+== Iniciar: npm run start
