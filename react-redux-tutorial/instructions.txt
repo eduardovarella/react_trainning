@@ -21,3 +21,6 @@ Enzyme.configure({ adapter: new Adapter() });
 == Run tests: npm run test
 
 == Iniciar: npm run start
+
+
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
