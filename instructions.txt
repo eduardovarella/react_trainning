@@ -22,5 +22,10 @@ Enzyme.configure({ adapter: new Adapter() });
 
 == Iniciar: npm run start
 
+== Install PropsTypes
+npm install --save prop-types
+
+npm install --save escape-string-regexp sort-by
+
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
