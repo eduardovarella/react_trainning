@@ -27,5 +27,9 @@ npm install --save prop-types
 
 npm install --save escape-string-regexp sort-by
 
+npm install --save react-router-dom
+
+npm install --save form-serialize
+
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
